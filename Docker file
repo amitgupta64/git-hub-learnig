@@ -1,4 +1,4 @@
-FROM centos:latestr
+FROM centos:latest
 MAINTAINER backend.jamuninformatics@gmail.com
 RUN yum install -y httpd \
 zip \
